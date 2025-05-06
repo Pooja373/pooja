@@ -10,4 +10,4 @@ steps:
  - script: mvn clean install
    displayName: 'Build with maven'
  - script: java -jar target/demoMaven-0.0.1-SNAPSHOT.jar
-   displayName: 'Run a jar file of My demoMaven App
+   displayName: 'Run a jar file of My demoMaven App'
